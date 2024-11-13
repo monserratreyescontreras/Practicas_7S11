@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P47S11ToastPersonalizado</string>
+    <string name="lblA1Info">Personaliza Toast</string>
+    <string name="btnA1Lanzar">Lanzar Toast</string>
+    <string name="lblA2Nombre">MSCD Luis</string>
+    <string name="lblA2Apellido">Hernandez</string>
+</resources>

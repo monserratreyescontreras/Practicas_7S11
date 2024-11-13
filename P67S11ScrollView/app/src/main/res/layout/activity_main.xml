@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="128dp"
+            android:layout_height="108dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.462"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.01"
+            app:srcCompat="@drawable/debian_svgrepo_com" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lorem Ipsum &quot;Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...&quot; &quot;No hay nadie que ame el dolor mismo, que lo busque, lo encuentre y lo quiera, simplemente porque es el dolor.&quot;     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ex quam, faucibus in fermentum id, tristique et quam. Phasellus quis mauris ut urna ultricies ultrices ac eget orci. Etiam purus tortor, rutrum vel dui dictum, suscipit luctus odio. Aliquam ut urna sit amet dui euismod egestas ut non ligula. In hac habitasse platea dictumst. Nulla mollis nisl quam, vitae eleifend risus tempus vitae. Morbi congue faucibus libero, sed ullamcorper nisi ultrices in. Duis nec diam tristique, vehicula arcu nec, accumsan tellus.  Aliquam erat volutpat. Fusce nec lobortis lorem, tincidunt molestie turpis. Proin eu ipsum at neque pellentesque venenatis. Quisque egestas dui et magna lacinia tincidunt. Sed dictum, orci at suscipit cursus, lorem tortor commodo ex, eget tempus massa est in orci. Curabitur tempor neque et eros euismod sodales. Duis tempus eros quis sagittis rutrum. Nulla eu sem a nisi pretium mollis vel vehicula enim. Curabitur et lobortis elit. Aliquam finibus turpis quis tincidunt ultricies. Pellentesque ullamcorper mauris ac lectus mattis, eget iaculis urna vulputate. Donec posuere vitae enim sit amet ultrices.  Ut tempor felis vitae erat vestibulum, ac tristique metus consequat. Nullam elementum et enim id fermentum. Phasellus tempus mauris et enim placerat, ut aliquet sem ullamcorper. Aliquam sed viverra mi. Aenean molestie eu libero at porta. Aliquam mollis auctor neque, in pharetra odio commodo eget. In tristique nibh nibh, vel placerat massa fermentum et. Sed eget massa erat.  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam ornare, magna malesuada euismod convallis, magna ipsum eleifend mi, at egestas nisl mauris sed turpis. Aenean bibendum feugiat libero. In eget risus felis. Donec sollicitudin, libero eget sagittis pellentesque, risus enim posuere nisi, ac sagittis est lorem a ipsum. Phasellus sollicitudin urna nulla, a accumsan nulla feugiat a. Morbi in nibh ut velit consequat ultrices. Ut tellus libero, cursus at arcu eget, pharetra feugiat ipsum. Mauris fringilla, ex nec luctus convallis, mi urna feugiat metus, convallis cursus ligula mi id orci. Mauris cursus, dui eget feugiat placerat, ex turpis eleifend eros, nec suscipit sem lectus a ligula. Ut semper odio a porta mattis. Suspendisse vitae consequat justo.  Nunc nec nisi et nisi ultricies auctor eu quis nunc. Proin aliquam nisl vel odio fermentum egestas. Maecenas fringilla malesuada nibh, sit amet accumsan metus eleifend ut. Maecenas odio erat, aliquet eu cursus sed, congue in tellus. Donec mollis, elit quis condimentum pulvinar, enim tellus pulvinar mi, at consequat ligula ligula sed lacus. Nunc ante orci, gravida eget nunc eu, finibus lacinia velit. Nunc vulputate massa sed ligula ultricies rutrum. Curabitur vestibulum eget tortor nec fermentum. Vestibulum risus turpis, aliquet sed convallis eget, dignissim eu tellus. Donec malesuada mollis nunc. Vivamus quis molestie nunc. Cras sed suscipit massa. In commodo sodales fringilla.  Mauris auctor, massa vel aliquet interdum, nisi velit facilisis tortor, a eleifend ipsum lectus eget diam. Ut non imperdiet dui, ac iaculis felis. Pellentesque dignissim arcu fermentum arcu rhoncus interdum. Sed sed accumsan ex. Fusce imperdiet sem ut nunc commodo convallis eleifend luctus metus. Mauris dapibus ante at facilisis consequat. Vestibulum dolor enim, volutpat pellentesque pretium non, placerat sit amet velit. Sed faucibus volutpat sapien non varius. Ut ex erat, fringilla id elementum eu, commodo in mauris. Mauris quis ipsum ac nunc faucibus cursus vitae sed diam. Pellentesque magna lorem, bibendum ut arcu eget, scelerisque gravida libero.  Cras eget nunc sapien. Curabitur vel dignissim augue. Nam at lectus vitae arcu feugiat lobortis tincidunt a risus. Quisque at faucibus massa. Nullam at nisl volutpat, bibendum magna ut, consequat orci. Nam tempor elit quis porttitor rhoncus. Nullam faucibus rutrum dictum. Phasellus eu ex vel metus laoreet congue quis malesuada massa. Praesent vel iaculis odio. Donec sit amet sollicitudin nisi, sit amet pulvinar erat. Duis aliquet magna vel suscipit efficitur. Morbi ut imperdiet tellus. Donec arcu diam, maximus ut elit quis, cursus elementum augue. Nunc massa neque, cursus quis bibendum at, tristique eget ligula.  Nunc quis ex elit. Aenean vehicula nunc nibh, non vestibulum orci eleifend eget. Duis vitae ultricies quam. Cras et quam non velit ultrices sollicitudin. In ex magna, dignissim eu maximus a, vehicula rutrum risus. Ut nec dictum risus, et posuere turpis. Donec facilisis, nisi sed sodales auctor, felis sem vulputate nisl, quis molestie lorem enim euismod tellus.  Integer ornare nisl eget ipsum eleifend suscipit. Sed nulla ipsum, sollicitudin sed tincidunt eget, pellentesque vehicula metus. Quisque vitae viverra sapien. Pellentesque luctus ligula ac magna venenatis, semper egestas elit rutrum. Cras viverra pharetra orci non molestie. Quisque sit amet felis a leo vulputate condimentum. Praesent eget malesuada nisi. Vivamus dapibus tincidunt diam, sed ultrices dolor fermentum vel. Suspendisse potenti. Cras a aliquet sem. Morbi interdum ornare augue ac scelerisque. Maecenas quis lacus vel nulla elementum ultrices eu eu dolor.  Integer sed efficitur quam, et volutpat tellus. Mauris feugiat lorem risus, et laoreet quam pretium id. Duis molestie mauris a mattis vehicula. Fusce id erat finibus, malesuada ipsum ac, rhoncus erat. Nulla vehicula erat quis turpis efficitur interdum. Cras blandit sapien in augue molestie vehicula. Nulla dignissim enim non euismod elementum."
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView2"
+            app:layout_constraintVertical_bias="0.085" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>

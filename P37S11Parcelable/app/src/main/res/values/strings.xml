@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">P37S11Parcelable</string>
+    <string name="lblA1Nombre">NOMBRE</string>
+    <string name="lblA1Correo">E-MAIL</string>
+    <string name="lblA1Telefono">TELEFONO</string>
+    <string name="lblA1Inicial">PRACTICA</string>
+    <string name="btnA1Enviar">Enviar</string>
+    <string name="hintA1Nombre">Ingrese su Nombre</string>
+    <string name="hintA1Correo">correo@dominio.ext</string>
+    <string name="hintA1Telefono">5512345678</string>
+</resources>

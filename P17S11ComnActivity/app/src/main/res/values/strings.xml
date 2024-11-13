@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P17S11ComnActivity</string>
+    <string name="lblA1Bienvenida">P1 COMUNICACION ACTIVITY</string>
+    <string name="btnA1Siguiente">SigActivity</string>
+    <string name="lblA2Saludo">HOLA MUNDO!!!</string>
+    <string name="txtA1pieDatos">Ingresa nombre!!!</string>
+    <string name="btnA1pasaParametro">PasaNombre</string>
+</resources>
